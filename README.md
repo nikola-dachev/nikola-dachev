@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikola-dachev
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python , MS SQL, Postgress, SFDC SOQL
+- 🌱 I’m currently learning Python , MS SQL, Postgres, SFDC SOQL, JS
 - 💞️ I’m looking to collaborate on Python projects
   
 
